@@ -1,0 +1,6 @@
+2012-12-29  Kurt A. Stephens  <ks.github@kurtstephens.com>
+
+	* v1.1.11: New version.
+	* ASIR: Moved ASIR::Coder::JSON to gem asir_json.
+
+

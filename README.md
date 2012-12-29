@@ -1,6 +1,6 @@
-# AsirJson
+# asir_json
 
-TODO: Write a gem description
+JSON Coder for ASIR
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+See spec/.
 
 ## Contributing
 
